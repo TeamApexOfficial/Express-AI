@@ -1,0 +1,17 @@
+# Ignore node_modules (if using any build tools)
+node_modules/
+
+# macOS
+.DS_Store
+
+# Chrome Extension Specific
+*.crx
+*.pem
+
+# Logs and temp files
+*.log
+*.tmp
+*.swp
+*.bak
+*.cache
+*.zip
